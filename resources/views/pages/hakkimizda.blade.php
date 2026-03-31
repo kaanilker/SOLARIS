@@ -98,9 +98,6 @@
         </div>
     </section>
 
-    {{-- ════════════════════════════════════════════════════════
-         ÖZELLİKLER
-    ════════════════════════════════════════════════════════ --}}
     <section class="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
         @php
         $features = [
@@ -124,9 +121,6 @@
         @endforeach
     </section>
 
-    {{-- ════════════════════════════════════════════════════════
-         VERİ KAYNAKLARI
-    ════════════════════════════════════════════════════════ --}}
     <section class="glass rounded-2xl p-6 lg:p-8 border border-white/10">
         <div class="flex items-center gap-3 mb-8">
             <div class="p-3 rounded-xl bg-night-500/10">
@@ -197,9 +191,6 @@
         </div>
     </section>
 
-    {{-- ════════════════════════════════════════════════════════
-         FORMÜLLER
-    ════════════════════════════════════════════════════════ --}}
     <section class="glass rounded-2xl p-6 lg:p-8 border border-white/10">
         <div class="flex items-center gap-3 mb-8">
             <div class="p-3 rounded-xl bg-emerald-500/10">
@@ -251,9 +242,6 @@
         </div>
     </section>
 
-    {{-- ════════════════════════════════════════════════════════
-         TEKNOLOJİ STACK
-    ════════════════════════════════════════════════════════ --}}
     <section class="glass rounded-2xl p-6 lg:p-8 border border-white/10">
         <div class="flex items-center gap-3 mb-8">
             <div class="p-3 rounded-xl bg-purple-500/10">
@@ -288,9 +276,6 @@
         </div>
     </section>
 
-    {{-- ════════════════════════════════════════════════════════
-         REFERANSLAR
-    ════════════════════════════════════════════════════════ --}}
     <section class="glass rounded-2xl p-6 lg:p-8 border border-white/10">
         <div class="flex items-center gap-3 mb-8">
             <div class="p-3 rounded-xl bg-solar-500/10">
